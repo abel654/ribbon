@@ -1,7 +1,7 @@
 @import "compass/css3";
 
-$freshcolor	  : red;
-$darkcolor 		: white;
+$freshcolor: red;
+$darkcolor: white;
 
 $basefont : "Times New Roman", times, serif;
 $basefontsize : 24;
